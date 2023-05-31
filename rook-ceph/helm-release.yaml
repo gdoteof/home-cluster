@@ -8,7 +8,4 @@ spec:
   chart:
     repository: https://charts.rook.io/release
     name: rook-ceph
-    version: <version>
-  values:
-    # your custom values go here, you can also reference a separate values file
-
+    version: v1.11.6
